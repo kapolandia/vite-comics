@@ -83,7 +83,7 @@
                 background-color: $brand-primary;
                 position: absolute;
                 left: 0;
-                bottom: -31px;
+                bottom: -39px;
             }
 
         }
